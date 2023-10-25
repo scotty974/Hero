@@ -1,0 +1,26 @@
+@import 'primeicons/primeicons.css';
+
+body{
+    font-family: 'Luckiest Guy', cursive;
+    background-color: #2728c1;
+}
+.container{
+    width: 1110px;
+    margin: auto;
+    height: 100vh;
+    .row{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+    }
+}
+
+h1{
+    color: #ed2dda;
+    .text-center{
+        text-align: center;
+    
+    }
+}
