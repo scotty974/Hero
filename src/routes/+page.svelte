@@ -16,7 +16,7 @@
           Découvrez des bandes dessinées, des histoires courtes et participez à
           des concours. Préparez-vous à rire !
         </p>
-        <a href="/home">Commencer</a>
+        <a href="/Accueil">Commencer</a>
       </div>
     </div>
   </div>
