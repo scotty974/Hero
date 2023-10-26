@@ -1,6 +1,6 @@
 <script>
   import  register  from "../register/register.js";
-
+  
   let mail = "";
   let password = "";
 
@@ -8,6 +8,7 @@
   function handleRegister(event) {
     event.preventDefault();
     register(mail, password);
+    
   }
 </script>
 
