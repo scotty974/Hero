@@ -1,5 +1,5 @@
 <svelete:head>
-  <title>Connexion</title>
+  <title>Register</title>
 </svelete:head>
 
 <section class="container">
@@ -13,7 +13,7 @@
         <input type="password" name="password" id="password" placeholder="Mot de passe" class="my-4" required>
         <button>Se connecter</button>
       </form>
-      <a href="/register" class="my-5">Pas encore de compte ?</a>
+      <a href="/" class="my-5">Déjà un compte ?</a>
     </div>
   </div>
 </section>
